@@ -1,0 +1,16 @@
+Number of users collected: 141
+Number of communities discovered: 5
+Average number of users per community: 28.2
+Number of instances per class found: 
+	 Male : 102
+	 Female : 34
+Example of Male class : 
+	 Name :Maxwell Dudley moore
+	 Screen Name :MaxwellDudley25
+	 Description :9/12/16❤️ evoshield seminoles⚾️🇺🇸 slow feet don't eat~Kevin gunn 🇺🇸😈
+	 Gender :male
+Example of Female class : 
+	 Name :Kim Myers
+	 Screen Name :kmyers76
+	 Description :stay at home mommy.
+	 Gender :female
